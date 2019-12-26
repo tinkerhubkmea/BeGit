@@ -1,2 +1,2 @@
 # BeGit
-Repo for Github beginers
+Repo for Github Beginers
